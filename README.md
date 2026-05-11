@@ -1,4 +1,4 @@
-# Dice Game
+#  AI Dice Game
 
 A simple interactive dice game built using HTML, CSS, and JavaScript.
 
@@ -12,6 +12,7 @@ A simple interactive dice game built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+- AI Decision Making
 
 ## Learning Purpose
 Built while practicing DOM manipulation and JavaScript fundamentals.
